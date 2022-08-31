@@ -12,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Stephen Kruse's First CS193 Homework
-## Ok
-### Header 3
 
 - Bulleted
 - List
