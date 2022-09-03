@@ -9,19 +9,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
 # Stephen Kruse's First CS193 Homework
 
-- Bulleted
-- List
+My favorite things about CS193
+- Optional PSO
+- Cool TA's
+- Memes on the slideshows
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
